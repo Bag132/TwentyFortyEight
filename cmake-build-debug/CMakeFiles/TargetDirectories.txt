@@ -1,0 +1,3 @@
+C:/Users/lombav/CLionProjects/TwentyFortyEight/cmake-build-debug/CMakeFiles/TwentyFortyEight.dir
+C:/Users/lombav/CLionProjects/TwentyFortyEight/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lombav/CLionProjects/TwentyFortyEight/cmake-build-debug/CMakeFiles/rebuild_cache.dir
